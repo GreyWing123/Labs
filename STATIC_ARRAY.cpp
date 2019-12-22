@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+﻿#include "pch.h" //лабораторная работа 1. статический массив
 #include <iostream>
 using namespace std;
 int main()
